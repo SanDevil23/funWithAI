@@ -1,9 +1,11 @@
-<<<<<<< HEAD
 ## Data Log
+model1.py --> trained accuracy = 0.8755 : epochs = 5
 
-model1 --> trained accuracy = 0.8755 : epochs = 5
-=======
-## Data Log
 
-model1 --> trained accuracy = 0.8755 : epochs = 5
->>>>>>> 4617be1612d359d2aed3ca783b0facaec58b5039
+## Linear Regression
+predicting marks using student datasets
+
+parameters: [marks1, marks2, marks3, studyhour, failures, attendance]
+result: final_marks
+
+accuracy_reached :::: >76% (approx.)
